@@ -1,0 +1,4 @@
+id,core,cycles,time_s,power_w,energy_j,core_cum_energy_j,system_cum_energy_j
+t1,0,1000000000,1,1.5,1.5,1.5,1.5
+t2,1,500000000,0.5,1.5,0.75,0.75,2.25
+t3,0,2000000000,2,1.5,3,4.5,5.25

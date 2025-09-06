@@ -1,0 +1,10 @@
+{
+  "name": "sample_mvp",
+  "freq_hz": 1000000000,
+  "ipc": 1.0,
+  "tasks_file": "tasks.csv",
+  "alpha": 1e-9,
+  "gamma": 1.0,
+  "p_idle": 0.5,
+  "out": "results/sample_out.csv"
+}
